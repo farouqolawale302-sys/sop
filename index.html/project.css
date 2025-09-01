@@ -1,0 +1,117 @@
+{
+    box-sizing: borderbox;
+    paddling:0;
+    margin:0;
+}
+body {
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        line-height: 1.7;
+        margin: 0;
+        background-color: #0f1012;
+        color: #e2e2e2;
+        background-image: url(ffk.jpg);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        background-attachment: fixed;
+ }
+header {
+         background-image: url(ffk.jpg);
+        text-align: center;
+        color:rgb(13, 13, 241);
+        border-bottom: 2px solid rgb(13, 13, 241);
+        padding: 3px;
+        font-size: 30px;
+        position: relative;
+        letter-spacing: 2px;
+}
+main   {
+                margin: 0%;
+                text-align: left;
+                background-color: rgb(61, 58, 58);
+                border-bottom: 2px solid rgb(13, 13, 241);
+                border-radius: 30px ;
+                border-top: 2px solid rgb(13, 13, 241);
+                padding: 3px;
+                font-display: fallback;
+                background-position: center;
+                font-size: 15px;
+}
+section   {
+                margin:0%;
+                text-align: left;
+                background-color:rgb(61, 58, 58);
+                border-radius: 30PX;
+                border-top: 2px solid rgb(13, 13, 241);
+                padding: 3px;
+                font-display: fallback;
+                background-position: center;
+                border-bottom: 2px solid rgb(13, 13, 241);
+                font-size: 15px;                  
+}
+
+figure  {
+                margin:0%;
+                text-align: center;
+                background-color:rgb(61, 58, 58);
+                border-radius: 30PX;
+                border-top: 2px solid rgb(13, 13, 241);
+                padding: 3px;
+                font-display: fallback;
+                background-position: center;
+                border-bottom: 2px solid rgb(13, 13, 241);
+                font-size: 15px;                                  
+}
+aside {
+                margin: 0%;
+                text-align: center;
+                background-image: url(ffk.jpg);
+                background-repeat: no-repeat;
+                background-position: center center;
+                background-size: cover;
+                background-attachment: fixed;
+                color:rgb(13, 13, 241);
+                border-bottom: 2px solid rgb(13, 13, 241);
+                padding: 10px;
+                font-size: 30px;
+                position: relative;
+                letter-spacing: 2px;
+}  
+
+article   {
+                margin:0%;
+                text-align: left;
+                background-color:rgb(61, 58, 58);
+                border-radius: 30PX;
+                border-top: 2px solid rgb(13, 13, 241);
+                padding: 3px;
+                font-display: fallback;
+                background-position: center;
+                font-size: 15px;                      
+}
+section {
+                margin:0%;
+                text-align: left;
+                background-color:rgb(61, 58, 58);
+                border-radius: 30PX;
+                border-top: 2px solid rgb(13, 13, 241);
+                padding: 3px;
+                font-display: fallback;
+                background-position: center;
+                font-size: 15px;         
+}
+footer {    
+                background-color:rgb(61, 58, 58);
+                text-align: center;
+                color:white;
+                border-bottom: 2px solid rgb(13, 13, 241);
+                padding: 3px;
+                font-size: 15px;
+                position: relative;
+                letter-spacing: 2px;   
+                border-bottom-right-radius: 30px;  
+                border-bottom-left-radius: 30px;     
+}
+
+
+
